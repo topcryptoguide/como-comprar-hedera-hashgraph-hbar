@@ -1,1 +1,3 @@
-# como-comprar-hedera-hashgraph-hbar
+[**Cómo comprar Hedera Hashgraph (HBAR)**](https://topcryptoguide.com/como-comprar-hedera-hashgraph-hbar/)
+
+Este artículo explica **cómo comprar Hedera Hashgraph (HBAR)**, la criptomoneda nativa de la red Hedera, una plataforma basada en un algoritmo de consenso **Hashgraph** diseñado para ofrecer transacciones rápidas, seguras y de bajo costo. Para adquirir HBAR normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o OKX), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunas plataformas también permiten comprar HBAR con **tarjeta de crédito/débito** directamente. Tras comprar HBAR, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
